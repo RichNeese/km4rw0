@@ -1,0 +1,22 @@
+[Params]
+	WndTitle   = Setup for MTR2000 RSS
+	WndMess    = Initializing Setup...
+	TmpDirSize = 500
+	TmpDirName = ~msstfqf.t
+	CmdLine    = _mstest setup.mst /C "/S %s %s"
+	DrvModName = DSHELL
+
+[Files]
+	setup_.01_ = setup.mst
+	setup_.02_ = setup.inf
+	setup_.03_ = setupapi.inc
+	setup_.04_ = msdetect.inc
+	setup_.05_ = mscomstf.dll
+	setup_.06_ = msinsstf.dll
+	setup_.07_ = msuilstf.dll
+	setup_.08_ = msshlstf.dll
+	setup_.09_ = mscuistf.dll
+	setup_.10_ = msdetstf.dll
+	setup_.11_ = _mstest.exe
+	setup_.12_ = _mssetup.exe
+

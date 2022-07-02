@@ -1,0 +1,438 @@
+Checksum 2147185858
+Copyright 'Copyright (c) Motorola 2002. All Rights Reserved.'
+PcFile '12M02897B86'
+PcFileVer 'R03.03.01'
+RxModelInfo 896-915_MHz
+TxModelInfo 935-941_MHz_75W_1_Circ
+CustInfo1 '900 Mhz default codeplug.'
+CustInfo2 'Updated 02-April-01'
+Date '97/05/16'
+Time '11:03:23'
+ProgCnt 1
+ProgSrc RssCust
+ModelNo ''
+SerialNo ''
+BackplaneID 'INVALID'
+DeviceTyp Base
+SysTyp Conventional
+UseLastChn N
+StartupChn 1
+Rx2Enable N
+MrtiEnable N
+MainSbyEnable N
+AccessCdEnable N
+StationTyp AnalogOnly
+RefTyp InternStd
+AntRelay N
+AntRelayDel 0.030
+TxAttackDel 0.010
+PwrSupply AC
+Battery None
+MaxDev 92
+PttAttr1 '0000C000400040004000C000C000C00040004000C00040004000000040004000'
+PttAttr2 '4000000000000000000000000000000000000000000000000000000000000000'
+SerialPort 1
+{
+Baud 9600
+Echo N
+Handshake XonXoff
+StartMode None
+}
+SerialPort 2
+{
+Baud 9600
+Echo N
+Handshake XonXoff
+StartMode None
+}
+SerialPort 3
+{
+Baud 9600
+Echo N
+Handshake XonXoff
+StartMode None
+}
+Wireline 1
+{
+BoardTyp None
+Duplex Half
+CtrlTyp None
+LnSqu N
+LnSquThd -28
+LnSquHys 2
+StatTon N
+StatTonFrq 2175
+StatTonMuteTim 0.020
+AutoLvlCtrl N
+TxNotch N
+RxNotch N
+RxEqualize N
+TrcPort 1
+HlgtFrq 2175
+LlgtUdtTim 0.150
+ConsoleTyp Clear
+ConsolePri N
+RptFbackDel 0.000
+FbCabRpt N
+}
+AlertTon 1
+{
+Frq 1200
+Dur 0.125
+TonGap 0.125
+WordGap 2.000
+}
+AutoId 1
+{
+Frq 800
+Delay 5
+Intval 15
+Rate 11
+}
+Trc 1
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 2
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 3
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 4
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 5
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 6
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 7
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 8
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 9
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 10
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 11
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 12
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 13
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 14
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 15
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+Trc 16
+{
+None
+None
+None
+None
+None
+None
+None
+None
+}
+6809_Trk 1
+{
+CT1 105.9
+CT2Enable N
+CT2 105.9
+SmartCtDec MuteTickle
+SmartCtDur 0.700
+Rstat Normal
+DataDev 17.0
+DctMode Always
+FsEnable N
+FsSource TxData
+FsCsq N
+ActTot 1
+BeepFrq 900
+NormBpDur 0.280
+SiteBpDur 0.140
+BeepGap 0.140
+BpIntval 9.180
+TrcEnc N
+DiscrimType MTR2000
+}
+OptHw 1
+{
+HwType None
+HwData ''
+}
+WildCdEnable N
+AccessCode 1
+{
+Code0 1
+Code1 0
+Code1Tx 0
+Code2 0
+Code2Tx 0
+Code3 0
+Code3Tx 0
+Code4 0
+Code4Tx 0
+Code5 0
+Code5Tx 0
+Code6 0
+Code6Tx 0
+Code7 0
+Code7Tx 0
+Code8 0
+Code8Tx 0
+Code9 0
+Code9Tx 0
+Code10 0
+Code10Tx 0
+Code11 0
+Code11Tx 0
+Code12 0
+Code12Tx 0
+Code13 0
+Code13Tx 0
+Code14 0
+Code14Tx 0
+Code15 0
+Code15Tx 0
+Code16 0
+Code16Tx 0
+Code17 0
+Code17Tx 0
+Code18 0
+Code18Tx 0
+Code19 0
+Code19Tx 0
+Code20 0
+Code20Tx 0
+Code21 0
+Code21Tx 0
+Code22 0
+Code22Tx 0
+Code23 0
+Code23Tx 0
+Code24 0
+Code24Tx 0
+Code25 0
+Code25Tx 0
+Code26 0
+Code26Tx 0
+Code27 0
+Code27Tx 0
+Code28 0
+Code28Tx 0
+Code29 0
+Code29Tx 0
+Code30 0
+Code30Tx 0
+Code31 0
+Code31Tx 0
+Code32 0
+Code32Tx 0
+}
+Chan 1
+{
+RxEnable Y
+TxEnable Y
+RxFrq 896.00000
+TxFrq 935.00000
+Deemph Y
+HighPass Y
+NoiseCanc N
+Compand N
+MrtiChAl N
+BndWidth 12.5
+Preemph Y
+AudioLmt N
+AuxAudPreemph Flat
+TxMod Analog
+RatedDev 2500.0
+RxSquTyp None
+RxPlCod 67.0
+RxDplCod 023
+TxSquTyp None
+TxPlCod 67.0
+TxDplCod 023
+PttTotEn N
+PttTot 60
+Rx2Mode Rx1Only
+TxIdleFrq 935.00000
+RxInvert N
+NormPwr 40
+BatPwr 40
+CarDel 0.100
+CallId ''
+IdOverWl N
+AlmOverWl Y
+AlmOverAir N
+ExtPttMap Mic
+PttPriLcl 7
+PttPriRpt 8
+PttPriWl 9
+PttTotWlEn Y
+PttTotWl 120
+PttTotRptEn Y
+PttTotRpt 60
+RxAct Carrier
+Dec 1
+{
+Type None
+Sys ZVEI1
+Squ '0'
+EftEn N
+EftTim 0.070
+SingleFrq 2175
+SingleDur 1000
+}
+Dec 2
+{
+Type None
+Sys ZVEI1
+Squ '0'
+EftEn N
+EftTim 0.070
+SingleFrq 2175
+SingleDur 1000
+}
+Rpt 1
+{
+RptAct Off
+RptDeact Off
+HoldIn Off
+HoldOffDel 0
+AudioBoost N
+DropOut 2
+}
+}
+AltPlDecode N

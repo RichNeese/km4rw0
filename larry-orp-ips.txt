@@ -1,0 +1,24 @@
+ok follow these steps:
+
+1 goto https://www.pistar.uk/wifi_builder.php put in your ssid for your router and the password.
+
+save file to downloads or desktop.
+
+Next remove sd from the pi board and put into a sd adapter and put into your pc/laptop sd card reader.
+
+copy the wpa-supplicant file to the boot partition for the sd card and eject from pc and put back in the pi
+
+next download angryip scanner on the windows laptop and install it .. it will allow you to find the ip of your boards when booted.
+
+power up the board with a usb power wait a few then with angry ip scanner they it scan your network and find the openrepeater in the list get ip.
+
+open the ip in web browser. user=admin pass=openrepeater
+
+this will allow you to play with the board and gui.
+
+for ssh login : ssh orp@ip pass=OpenRepeater.
+
+for the most part once setup we should not have to upgrade for a while as we have the curry os releaase on it.
+
+
+

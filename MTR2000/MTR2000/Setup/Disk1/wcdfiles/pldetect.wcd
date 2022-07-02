@@ -1,0 +1,46 @@
+Checksum 2147451252
+Copyright 'Copyright (c) Motorola 2002. All Rights Reserved.'
+WildCdFileVer 'R03.03.01'
+CustInfo1 'PL DETECT'
+CustInfo2 ''
+Date '08/10/02'
+Time '15:30:06'
+JUMPERS
+{
+  P2 0
+  P3 0
+  P4 0
+  P5 0
+  P6 0
+  P7 0
+  P8 0
+  P9 0
+}
+CONDITION 'PLDETECT'
+{
+  WCS_RX_PL_DETECT
+}
+ACTIONTBL
+{
+  WCC_CLR_OUTPUT
+  NUMERIC
+  14
+}
+INACTIONTBL
+{
+  WCC_SET_OUTPUT
+  NUMERIC
+  14
+}
+GROUP channel_input
+{ 
+} 
+GROUP access_input
+{ 
+} 
+GROUP channel_output
+{ 
+} 
+GROUP access_output
+{ 
+} 

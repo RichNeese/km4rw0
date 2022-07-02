@@ -1,0 +1,58 @@
+==============================================================
+            MTR2000 RSS Version R03.03.01
+==============================================================
+This RSS version works with the MTR2000 Station Software 
+Version R01.00.000, R02.00.000, R02.02.001, R02.02.002, 
+R02.03.002, R03.01.001, R03.01.003, R03.01.004, R03.01.006,
+R03.01.007, R03.02.003, R03.02.005, R03.02.006, R03.02.008 
+R03.02.009, R03.02.010, R03.02.011, R03.02.012,R03.02.014,R03.02.016,R03.02.018
+R03.03.003
+Run the program setup.exe on disk 1 under windows to install the
+RSS files to your harddisk.
+
+==============================================================
+RSS updates: RSS R03.03.01 Enhancements over release R03.02.06
+==============================================================
+Help files in the sections RSS/Station Firmware Version Compatibility,
+FRU Kit Number Reference List are revised, and Alternate PL decode feature
+part of station options is added. 
+==============================================================
+
+RSS updates: RSS R03.02.06 Enhancements over release R03.02.05
+==============================================================
+Help files in the sections RSS/Station Firmware Version Compatibility
+and FRU Kit Number Reference List are revised
+RSS updates: RSS R03.02.05 Enhancements over release R03.02.03
+==============================================================
+
+- Enhancement to default Main Standby wildcard file functionality.
+  The affected files are main.wcd and standby.wcd
+- RSS functionality has been validated under Windows 98
+  (the Windows 95 restrictions given below apply under Windows 98)
+- Miscellaneous revisions to the helpfiles.
+==============================================================
+Known RSS limitations:
+==============================================================
+Known differences running the MTR2000 RSS under Windows 95 
+- All non editable fields appear in light grey
+- Windows 95 links are not handled from the File Load/Save dialog
+- Long filenames are not supported by the RSS
+- Some lists enable a scrollbar, because a different font is used
+Help differences under Windows 95
+- Shown Pictures in help reflect Windows 3.1 appearance e.g. 
+  title bar, icons in desktop, ...
+- Context help for X button missing (new close button in title bar
+  for Windows 95)
+
+
+==============================================================
+The following options are available in the RSS but are
+not supported by the Station Software:
+==============================================================
+- 2nd Receiver connected         (Station Configuration)
+- Audio Source                   (Channel Information->Audio)
+- External PTT Mapping entries 
+  ('Aux. Audio & Receiver' and 'Call Sign') (Channel Information PTT)
+
+end
+---
